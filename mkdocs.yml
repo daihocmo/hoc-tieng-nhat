@@ -1,0 +1,61 @@
+site_name: Học Tiếng Nhật qua Youtube, Phim Ảnh và hơn thế nữa.
+site_description: Học Tiếng Nhật thông qua việc tiêu thụ nội dung do người Nhật làm cho người Nhật (Immersion). Hoàn toàn miễn phí, tự học.
+site_author: onlyduyy  
+theme:
+  name: material
+  features:
+    - navigation.sections
+  palette:
+    primary: indigo
+
+nav:
+  - Home: 'index.md'
+  - 'Hướng dẫn':
+    - 'Chung': 'guide.md'
+    - 'Nói': 'noi.md'
+    - 'Anime': 'jp-anime.md'
+    - 'Đọc': 'doc.md'
+    - 'Ngữ pháp': 'ngu-phap.md'
+  - 'Đầu vào dễ hiểu':
+    - 'Hướng dẫn khởi đầu': 'input.md'
+    - 'Lộ trình': 'input-guide.md'
+  - 'Tài nguyên':
+    - 'Tài nguyên': 'resources.md'
+    - 'Cộng đồng': 'cong-dong.md'
+    - 'Tadoku': 'tadoku.md'
+  - 'Nội dung Nhật':
+    - 'Youtube': 'youtube.md'
+    - 'Podcasts': 'podcasts.md'
+    - 'Phim Ảnh': 'phim-anh.md'
+    - 'Anime & Manga': 'anime.md'
+    - 'LN & VN': 'tieu-thuyet.md'
+      
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - search.highlighting
+    - search.share
+  name: material
+
+extra:
+  generator: false
