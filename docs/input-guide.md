@@ -35,7 +35,7 @@ Các nội dung thêm: Bạn có thể đọc thêm về Comprehensible Japanese
 
 - [YomuJP](https://yomujp.com/): Đây là danh sách các bài đọc có chia Level cho người ở mọi trình độ (Từ N6 (?) đến N1 luôn!).
 - [Satori Reader](https://www.satorireader.com/series): Đây là một trang tổng hợp các bài đọc Tiếng Nhật, đa dạng chủ đề và có giọng đọc (Hình như có phần nội dung mất tiền nên không ưu tiên)
-- [Tadoku](https://tadoku.org/japanese/book-search/?series=010): Đây là phần Graded Reader, tức chia bài đọc theo Level, miễn phí và siêu xịn. Bạn có thể tải tài liệu trực tiếp tại [đây](tadoku.md).
+- [Tadoku](https://tadoku.org/japanese/book-search/?series=010): Đây là phần Graded Reader, tức chia bài đọc theo Level, miễn phí và siêu xịn.
 - [Ehonnavi](https://www.ehonnavi.net/): Khu đọc sách thiếu nhi miễn phí
 
 - [**Thử thách**](https://ehon.alphapolis.co.jp/): Không hẳn là thử thách nhưng đây là trang sách ảnh cho trẻ em của Trung.

@@ -1,4 +1,4 @@
-site_name: Học Tiếng Nhật qua Youtube, Phim Ảnh và hơn thế nữa.
+site_name: Tự Học Tiếng Nhật qua Youtube, Phim Ảnh và hơn thế nữa.
 site_description: Học Tiếng Nhật thông qua việc tiêu thụ nội dung do người Nhật làm cho người Nhật (Immersion). Hoàn toàn miễn phí, tự học.
 site_author: onlyduyy  
 theme:
@@ -13,7 +13,7 @@ nav:
   - 'Hướng dẫn':
     - 'JLPT': 'jlpt.md'
     - 'Chung': 'guide.md'
-  - 'Tìm hiểu'
+  - 'Tìm hiểu':
     - 'Nói': 'noi.md'
     - 'Anime': 'jp-anime.md'
     - 'Đọc': 'doc.md'
