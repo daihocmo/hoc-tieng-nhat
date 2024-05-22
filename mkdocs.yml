@@ -11,7 +11,9 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
+    - 'JLPT': 'jlpt.md'
     - 'Chung': 'guide.md'
+  - 'Tìm hiểu'
     - 'Nói': 'noi.md'
     - 'Anime': 'jp-anime.md'
     - 'Đọc': 'doc.md'
@@ -22,7 +24,6 @@ nav:
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng': 'cong-dong.md'
-    - 'Tadoku': 'tadoku.md'
   - 'Nội dung Nhật':
     - 'Youtube': 'youtube.md'
     - 'Podcasts': 'podcasts.md'

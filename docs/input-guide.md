@@ -10,7 +10,7 @@ __Lưu ý cho mọi người: Trong khi học TUYỆT ĐỐI không được là
 
 Bạn hoàn toàn có thể gõ "Luyện nghe Tiếng Nhật" trên Youtube hoặc "Luyện đọc Tiếng Nhật" trên Google để bắt đầu, dưới đây là danh sách gợi ý mà cá nhân mình thấy ổn.
 
-_P/s: Trong giai đoạn này sẽ bao gồm A1 và khoảng đến A2 (Tính theo cấp bậc ngoại ngữ CEFR mà bạn có thể tìm hiểu thêm thông tin của nó [tại đây](https://flyer.vn/cefr-la-gi-va-nhung-dieu-can-biet-ve-chung-chi-tieng-anh-tai-viet-nam/))_
+_P/s: Trong giai đoạn này sẽ bao gồm A1 và khoảng đến B1 (Tính theo cấp bậc ngoại ngữ CEFR mà bạn có thể tìm hiểu thêm thông tin của nó [tại đây](https://flyer.vn/cefr-la-gi-va-nhung-dieu-can-biet-ve-chung-chi-tieng-anh-tai-viet-nam/))_
 
 ### Nghe
 Chúng ta sẽ bắt đầu nghe trước vì nó dễ hơn và bớt áp lực hơn so với đọc. Đồng thời, việc nghe nhiều sẽ giúp chúng ta bắt được cách phát âm đúng của người ta.
@@ -43,7 +43,7 @@ Các nội dung thêm: Bạn có thể đọc thêm về Comprehensible Japanese
 Trong giai đoạn đầu tiên, mọi người không nhất thiết chỉ nghe hoặc đọc các nội dung mình đã cho sẵn ở đây mà có thể chủ động tìm kiếm các nguồn khác để cải thiện kĩ năng hiểu của mình với Tiếng Nhật. Các nguồn học liệu bổ sung mình sẽ thêm ở trang "Tài nguyên" nếu bạn muốn tìm hiểu thêm.
 
 ## Giai đoạn 2
-Giai đoạn vũ đài "Intermediate" (Cấp độ cận trung cấp -> trung cấp 1, tức khoảng từ A2 -> B1). 
+Giai đoạn vũ đài "Intermediate" (B1 -> B2). 
 
 Từ giai đoạn này, bạn bắt đầu sẽ thấy Tiếng Nhật trở lên dễ hơn đôi chút, tuy vẫn chưa sẵn sàng cho các nội dung bản ngữ hay nâng cao, nhưng bạn đã có thể hiểu được 1 phần nhỏ của ngôn ngữ này rồi.
 
@@ -79,3 +79,33 @@ Một số nguồn đọc gợi ý:
 - [Watanoc](https://watanoc.com/): Giống NHK EASY WEB, là tin tức được viết đơn giản hóa.
 
 Tớ sẽ bổ sung thêm sớm thui ^^. 
+
+
+## Các nguồn bổ sung
+
+
+### N5/N4:
+
+- [Japanese with Shun](https://www.youtube.com/channel/UCu6sZrHyl4hSS2PvlUo2XZA/) **
+- [Comprehensible Japanese](https://www.youtube.com/c/ComprehensibleJapanese/)      
+
+### N4/N3:
+
+- [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ)                  
+- [Daily Japanese with Naoko](https://www.youtube.com/channel/UCMNVKIaw8hV8ln3dDE5z-hA)                  
+- [The Bite size Japanese Podcast](https://www.youtube.com/channel/UCc8QJqwkWe9RcKYZTY2Ezuw)      
+- [あかね的日本語教室](https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw/)                                 
+- [日本語の森](https://www.youtube.com/c/nihongonomori2013) also N3 <                                         
+- [Yuki's Japanese TV](https://www.youtube.com/channel/UC5l9pe-Z7Jdh4q4ZnBev70w/)                        
+- [三本塾 -Sambon Juku-](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)                   
+- [Onomappu](https://www.youtube.com/c/Onomappu)                                                  
+- [日本語 to 旅 〜Nihongo to Tabi〜](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ/)                
+- [Try! 中級の日本語, Intermediate Japanese learning](https://www.youtube.com/channel/UCD7MHiX-BXRm5D8j4rmJbrA)
+- [もしもしゆうすけ](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA)                                   
+- [じゃぱすた/Let's study Japanese](https://www.youtube.com/channel/UCq62LsItH2ADzfT4dnjtVIA/)                
+- [しのせんせい](https://www.youtube.com/channel/UC7LVTjJJuDB_Qo0BAOQ8NFg)                                     
+- [Japanese with Noriko](https://www.youtube.com/c/LearnJapanesewithNoriko/)                             
+- [Daily Japanese with Naoko](https://www.youtube.com/channel/UCMNVKIaw8hV8ln3dDE5z-hA/)                 
+- [Nihongo News](https://www.youtube.com/c/NihongoNews/)                                                 
+- [YUYU Japanese Radio](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA/)                       
+- [Sayuri Saying](https://www.youtube.com/@SayuriSaying)     

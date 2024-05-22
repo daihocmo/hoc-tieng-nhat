@@ -14,11 +14,15 @@
 
 ### Kanji
 
-**Nhắc nhỏ:** [Đọc nhiều](https://learnjapanese.moe/readingtips) là cách tốt nhất để học Kanji
+**Nhắc nhỏ:** [Đọc nhiều](doc.md) là cách tốt nhất để học Kanji
 
 - **[※ - The "Kanken Deck"](https://mega.nz/file/VVdkUZbI#lGvxw2hDkw7JCEWa90cViY7cpYatf1SPUrE0Aw0OdDQ) - Học viết Kanji, nhưng nên biết đọc trước**
 - [Usagi Chan Kanji Phonetics](https://learnjapanese.moe/kanjiphonetics) - Bộ thẻ Anki để học phát âm Kanji
 - [RRTK450](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ) - Bộ thẻ ngắn hơn của Remember The Kanji, bạn có thể tự sửa truyện và thêm âm Hán Việt
+- [KanjiTransition](https://ankiweb.net/shared/info/917377946). Bộ thẻ giúp học Hán Tự thông qua từ vựng, tải trên trang Anki và là Nhật - Anh
+- [Kanjidamage](http://www.kanjidamage.com/) - Cách nhớ Kanji đơn
+- [Kanjidamage+ reference](https://kanjidamageplus.neocities.org/) - Tra KanjiDamage
+- [RTK search](https://hochanh.github.io/rtk/) - Trang của "Học hành", một trang giúp tìm hán tự trong sách RTK nhanh hơn, có cách viết, truyện giúp ghi nhớ. Nhật - Anh
 
 ### Từ vựng
 
@@ -26,10 +30,48 @@
 
 ### Ngữ pháp
 
-- [Chưa có hướng dẫn ngữ pháp Tiếng Nhật nào ổn bằng Tiếng Việt cả]()
+- [Cure Dolly](): Tiếng Anh, nên xem bằng phụ đề vì giọng Robot khá khó nghe.
+- [Tae Kim](https://guidetojapanese.org/learn/grammar): Hướng dẫn cho người mới học, bạn có thể học cùng với [bộ thẻ Anki này](https://ankiweb.net/shared/info/911122782), hướng dẫn bằng Tiếng Anh.
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - Học ngữ pháp JLPT bằng Tiếng Nhật, tránh bị hiểu sai khi dịch song ngữ.
 - **[※ - NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** - Học ngữ pháp JLPT bằng Tiếng Nhật, tránh bị hiểu sai khi dịch song ngữ, bộ thẻ Anki.
 
+### Đầu vào dễ hiểu
+
+#### Đọc
+
+- [Free Bilingual Books](http://bilinguis.com/): Has a few books that you can read in Japanese and English, side by side
+- [Satori Reader](https://www.satorireader.com/): A site full of curated content to help you read, most things are locked behind a paywall though
+
+#### Tadoku
+
+Nguồn nội dung được tổng hợp bởi một người dùng trên Reddit, đọc bài đăng [tại đây](https://www.reddit.com/r/LearnJapanese/comments/eggyg9/more_complete_version_of_the_tadoku_pdf_merged/).
+
+Gồm 5 tệp PDF:
+
+- 50 LVL 0 truyện (848 trang). 96.6 MB [https://drive.google.com/file/d/1dSSvUb__gtjKHHsen1t0MGrxmnHi0N7h/view](https://drive.google.com/file/d/1dSSvUb__gtjKHHsen1t0MGrxmnHi0N7h/view)
+    
+- 25 LVL 1 truyện (325 trang). 46.7 MB [https://drive.google.com/file/d/11ptkp3EoSpDwwXMp2Yiy6ILpxCT9wQrd/view](https://drive.google.com/file/d/11ptkp3EoSpDwwXMp2Yiy6ILpxCT9wQrd/view)
+    
+- 16 LVL 2 truyện (252 trang). 31.5 MB [https://drive.google.com/file/d/1c27rUXQzayEm7FYulAnlzcQWXksOHc5B/view](https://drive.google.com/file/d/1c27rUXQzayEm7FYulAnlzcQWXksOHc5B/view)
+    
+- 13 LVL 3 truyện (216 trang). 21.9 MB [https://drive.google.com/file/d/1LUiJG27VuiEzFaN29ROsd4P8JfFOwwqv/view](https://drive.google.com/file/d/1LUiJG27VuiEzFaN29ROsd4P8JfFOwwqv/view)
+    
+- 7 LVL 4 truyện + 1 LVL 5 story (155 trang). 67.8 MB [https://drive.google.com/file/d/1BAgIrATCoE2KP1ixXU9niO5Qe61hlunu/view](https://drive.google.com/file/d/1BAgIrATCoE2KP1ixXU9niO5Qe61hlunu/view)
+    
+
+Một số truyện có đoạn ghi âm, mọi người tải [tại đây](https://tadoku.org/japanese/audio-downloads/)
+
+### JLPT
+
+- [dethitiengnhat](https://dethitiengnhat.com/en/): Khu lưu trữ đề thi Tiếng Nhật các năm
+- [JLPT Grammar List](https://jlptgrammarlist.neocities.org/): Tổng hợp ngữ pháp JLPT
+- [問題検索室](http://www.n-lab.org/library/mondai/): Tìm câu hỏi JLPT theo từ khóa
+- [JTest4You](https://japanesetest4you.com/). Thi thử JLPT.
+- [毎日のんびり日本語教師](https://nihongonosensei.net/).
+- [The JLPT Study Page](https://www.jlptstudy.net/). Đủ các thứ cái về thi JLPT từ N5 đến N2.
+
+### Tài nguyên học khác
+Chưa có
 
 ## Acquiring Japanese
 
@@ -95,4 +137,3 @@ Cho việc nghe thụ động, đây là những tệp âm thanh được lọc 
 
 #### Các từ điển khác
 - [Mazii]() - Từ điển huyền thoại mà bạn nào học Tiếng Nhật cũng biết.
-- []
