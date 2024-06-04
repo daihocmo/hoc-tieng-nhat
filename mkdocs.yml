@@ -12,19 +12,16 @@ nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
     - 'JLPT': 'jlpt.md'
-    - 'Chung': 'guide.md'
-  - 'Tìm hiểu':
-    - 'Nói': 'noi.md'
-    - 'Anime': 'jp-anime.md'
+    - 'Đầu vào dễ hiểu': 'input-guide.md'
+    - 'Immersion': 'guide.md'
+  - 'Khu linh tinh':
     - 'Đọc': 'doc.md'
-    - 'Ngữ pháp': 'ngu-phap.md'
-  - 'Đầu vào dễ hiểu':
-    - 'Hướng dẫn khởi đầu': 'input.md'
-    - 'Lộ trình': 'input-guide.md'
-  - 'Tài nguyên':
+    - 'Anime': 'jp-anime.md'
+    - 'Nói': 'noi.md'
+  - 'Tổng hợp':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng': 'cong-dong.md'
-  - 'Nội dung Nhật':
+  - 'Nội dung Tiếng Nhật':
     - 'Youtube': 'youtube.md'
     - 'Podcasts': 'podcasts.md'
     - 'Phim Ảnh': 'phim-anh.md'

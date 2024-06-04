@@ -10,10 +10,7 @@ I think there’s a great potential in choosing books focused on the 児童 mark
 
 I’ve compiled a list of 文庫 collection names, for easy searching for children’s books that might help getting a foot in the door to reading - once you get the ball rolling, it’s a whole lot less intimidating.
 
-
 (This is not a comprehensive list, and I may have missed some well-known collections)
-
-  
 
 ## Mẹo trước khi bắt đầu
 
@@ -42,4 +39,5 @@ I highly recommend these two playlists, which offer both hard and soft-subs (gre
 - [世界の名作童話アニメ シリーズ](https://www.youtube.com/playlist?list=PL1DnK3_eexigbTRh6rIZIIY8MJfvnlw9Q) - Famous Folktales from Around the World
     
 ## Danh sách các cuốn sách gợi ý
+
 Vẫn đang làm...
