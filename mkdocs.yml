@@ -1,5 +1,5 @@
-site_name: Tự Học Tiếng Nhật qua Youtube, Phim Ảnh và hơn thế nữa.
-site_description: Học Tiếng Nhật thông qua việc tiêu thụ nội dung do người Nhật làm cho người Nhật (Immersion). Hoàn toàn miễn phí, tự học.
+site_name: Tu luyện Tiếng Nhật
+site_description: Tự học Tiếng Nhật thông qua Immersion và Comprehensible Input. Hoàn toàn miễn phí.
 site_author: onlyduyy  
 theme:
   name: material
@@ -15,12 +15,14 @@ nav:
     - 'Đầu vào dễ hiểu': 'input-guide.md'
     - 'Immersion': 'guide.md'
   - 'Khu linh tinh':
-    - 'Đọc': 'doc.md'
     - 'Anime': 'jp-anime.md'
-    - 'Nói': 'noi.md'
+  - 'Công cụ':
+    - 'Yomichan': 'setup-yomichan.md'
   - 'Tổng hợp':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng': 'cong-dong.md'
+  - 'Nội dung':
+    - 'Kho nội dung': 'media.md'
       
 theme:
   palette:

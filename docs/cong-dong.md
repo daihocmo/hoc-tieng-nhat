@@ -5,9 +5,11 @@ Những cộng đồng học Tiếng Nhật trực tuyến mà bạn có thể t
 Đây là danh sách các cộng đồng trò chuyện trên Discord về Tiếng Nhật hoặc học Tiếng Nhật. Bạn hoàn có thể giao tiếp bằng Tiếng Nhật ngay tại nhà. Đa phần các Server dưới đây sẽ là Nhật - Anh.
 
 **Nhật - Việt**
+
 - [(vozer) Tiếng Nhật đơn giản](https://discord.com/invite/5qc4BhAzau)
 
 **Nhật - Anh**
+
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j) - Có kênh Tiếng Việt trong này.
 - [Japanese English International School (日英国際学校)](https://discord.gg/Q5KaNfT)
 - [Japanese & English (日本語と英語)](https://discord.gg/STHgA9z)
