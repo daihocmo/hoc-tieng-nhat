@@ -94,8 +94,8 @@ You could also look into the Yami Shibai (闇芝居) anime series. These stories
 
 Sticking with anime, I hear "Hell Teacher Nūbē" (地獄先生ぬ〜べ〜, Jigoku Sensei Nūbē) and Ghost Stories (学校の怪談, Gakkō no Kaidan) are good for full-length 30-minute episodes.
 
-"Mieruko-chan" (見える子ちゃん) is also quite good.
+- "Mieruko-chan" (見える子ちゃん) is also quite good.
 
-When you're more advanced, you might also want to watch the movie Kwaidan. It's a group of four samurai-age horror stories. Altogether, it's about three hours.
+- Kwaidan. It's a group of four samurai-age horror stories. Altogether, it's about three hours.
 
-Oh, and this last one is more of a thriller than a horror, but the film "Confessions" (告白, Kokuhaku) is absolutely amazing. The implications legitimately kept me up worse than any modern j-horror.
+- "Confessions" (告白, Kokuhaku): more of a thriller than a horror
