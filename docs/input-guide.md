@@ -8,54 +8,35 @@ __Lưu ý cho mọi người: Trong khi học TUYỆT ĐỐI không được là
 
 Đây là bài viết về Đầu vào dễ hiểu hay Comprehensible Input đầu tiên, để giúp bạn có thể tối ưu hóa lượng thời gian nạp nội dung nhất. Khi chúng ta mới học thì đa phần các Input (Đầu vào) đều sẽ là "Imcomprehensible" (Không dễ hiểu) bởi vì chúng ta chưa có từ vựng hay hiểu biết cơ bản về ngôn ngữ để có thể "hiểu" được "thông điệp được truyền tải" từ nội dung đó.
 
-### Input, Output
-
-Khi ở giai đoạn mới học, khi mà bạn vẫn chưa biết gì về ngoại ngữ hoặc không chắc chắn rằng câu nói hoặc câu viết này đúng hay sai, đừng nói/viết!
-
-Output ở đây là "đầu ra", tức bao gồm nói và viết, khi mà ta tạo ra Tiếng Anh dựa trên những gì chúng ta đã "Input" (nạp vào, bao gồm nghe và đọc). Khi chúng ta chưa nghe và đọc "đủ nhiều" thì khả năng sử dụng ngoại ngữ cho nói và viết sẽ rất hạn chế vì:
-
-- Ta không chắc câu này ta nói có đúng không? -> Ta chưa được nghe mẫu câu đúng đó đủ nhiều để có thể nói như cách ta nói Tiếng Việt.
-
-- Dễ bị sai, thành thói quen và khó sửa. Nếu để lỗi sai thành một thói quen xấu thì sẽ rất khó sửa.
-
-### Đào câu và xây dựng vốn từ vựng thông qua ngữ cảnh
-
-Bạn học từ mới thông qua ngữ cảnh, hay đơn giản hơn, bạn học từ mới nhanh hơn khi bạn đặt từ mới đó trong ngữ cảnh, ở đây là câu, bao gồm các từ vựng bạn đã biết, và một từ bạn chưa biết và muốn học đặt trong đó. Đây gọi là phương pháp "i + 1", i ở đây là khối lượng từ vựng ước tính của bạn. Cứ mỗi một câu "i + 1" thì bạn lại:
-
-- Nạp thêm một từ vựng mới.
-- Biết được cách dùng của từ vựng đấy trong câu/ngữ cảnh.
-- Ôn lại các từ đã biết -> Giúp nhớ lâu hơn.
-
-Vậy nên, có lẽ bạn sẽ muốn chọn học liệu hoặc nội dung tiêu thụ ngang hoặc nhỉnh hơn kĩ năng Tiếng Anh của mình một chút để có thể tăng lượng Comprehensible Input lên nhiều nhất. Tuy các nội dung làm cho người học chán, không bánh cuốn nhưng với những người mới học, việc đọc/nghe nhiều những nội dung "i + 1" đó sẽ giúp họ cải thiện được Tiếng Anh nhanh ở giai đoạn đầu.
-
-Nhưng khi đến giai đoạn trung cấp, ở đây giả sử bạn có khoảng 2000 từ vựng và thời gian nghe đọc nội dung cơ bản được tương đối (Mình ước tính khoảng 200 giờ đến 300 giờ, hoặc có thể hơn). Thì có lẽ đã đến lúc nên thử đắm mình vào trong ngôn ngữ mà người nói Tiếng Anh bản ngữ thực sự dùng rồi!
-
-### Về đọc có chọn lọc theo cấp độ (Graded Readers)
-
-Việc lựa chọn tài liệu đọc sao cho phù hợp với những người theo học phương pháp Comprehensible Input là một điều rất quan trọng. Vì khi các tài liệu đọc được sử dụng trong lúc học của chúng ta thực sự "Comprehensible", tức dễ hiểu thì khả năng chúng ta học từ mới thông qua ngữ cảnh và làm mới ngữ cảnh đó trong đầu của chúng ta sẽ được cải thiện rất nhiều.
-
-
-
-## Giai đoạn 1
-
-Đây là giai đoạn bạn chưa biết gì hoặc biết rất ít về Tiếng Nhật. Bạn chưa thể nói một câu hoàn chỉnh hay đọc hoặc nghe hiểu được gì. Chúng ta vẫn sẽ cần học song song cả từ vựng (Thông qua bộ thẻ Anki ở hướng dẫn chính mình đã để đường dẫn) và ngữ pháp Tiếng Nhật (Danh sách phát mình đã để ở hướng dẫn chính) để giúp tăng khả năng hiểu ở giai đoạn đầu.
-
-Bạn hoàn toàn có thể gõ "Luyện nghe Tiếng Nhật" trên Youtube hoặc "Luyện đọc Tiếng Nhật" trên Google để bắt đầu, dưới đây là danh sách gợi ý mà cá nhân mình thấy ổn.
-
-_P/s: Trong giai đoạn này sẽ bao gồm A1 và khoảng đến B1 (Tính theo cấp bậc ngoại ngữ CEFR mà bạn có thể tìm hiểu thêm thông tin của nó [tại đây](https://flyer.vn/cefr-la-gi-va-nhung-dieu-can-biet-ve-chung-chi-tieng-anh-tai-viet-nam/))_
+I will update the post later.
 
 ### Nghe
 Chúng ta sẽ bắt đầu nghe trước vì nó dễ hơn và bớt áp lực hơn so với đọc. Đồng thời, việc nghe nhiều sẽ giúp chúng ta bắt được cách phát âm đúng của người ta.
 
-- [Mới bắt đầu và chưa biết gì](https://www.youtube.com/playlist?list=PLPdNX2arS9Mb1iiA0xHkxj3KVwssHQxYP): Đây là danh sách phát của Comprehensible Japanese cho Absolute Beginner (Người hoàn toàn mới). Bạn không cần lo lắng nếu chưa hiểu gì cả và có thể bật phụ đề lên nếu cần.
-
-- [Tương đối rồi đấy](https://www.youtube.com/playlist?list=PLPdNX2arS9MZ70r0Vi6d6dUazHb_3z2sd): Sau khi bạn xong Playlist ở trên, yêu cầu hiểu khoảng trên 80% thì bạn có thể cân nhắc lên danh sách phát này. Các danh sách phát này đều không dài, rất dễ thở khi nghe và có thể nghe lại nếu không rõ hoặc chưa hiểu hết nữa!
-
-- [Nihongo Learning](https://www.youtube.com/channel/UC6Xtu6v_op552SsOr5_jWrg): "Tiếng Nhật dễ" nhưng không dễ, vì tốc độ hội thoại và nói trong đây không quá chậm cũng không quá nhanh. Nội dung đa dạng với không khó tiếp thu. Làm video dưới dạng hội thoại và hoạt hình.
-
-- [**Thử thách**](https://www.youtube.com/playlist?list=PLXCeHBWxd4iCqSvBJPvE2TFMWkKBKfJpv): Đây là danh sách phát 12 bài nghe N3 của Japanese Test. Nghe thử xem!
-
 Các nội dung thêm: Bạn có thể đọc thêm về Comprehensible Japanese tại [trang này](https://cijapanese.com/).
+
+- [Nihongo Learning](https://www.youtube.com/channel/UC6Xtu6v_op552SsOr5_jWrg)
+- [もしもしゆうすけ](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA): Khó hơn chút, vì anh này quay vlog nói một mình hoặc các tình huống giao tiếp ngoài đời thực, có phụ đề.
+- [The bite size Japanese Podcast](https://www.youtube.com/channel/UCc8QJqwkWe9RcKYZTY2Ezuw): Chị layla chia sẻ về trải nghiệm cá nhân bằng Tiếng Nhật. không quá khó nghe vì được làm cho người học nhưng cũng không quá dễ nghe vì cần một lượng từ vựng tương đối.
+- [YUYUの日本語Podcast](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA): Podcast của YUYU rơi vào khoảng N3 ~ N2. 
+- [Japanese with Shun](https://www.youtube.com/channel/UCu6sZrHyl4hSS2PvlUo2XZA/) **
+- [Comprehensible Japanese](https://www.youtube.com/c/ComprehensibleJapanese/)     
+- [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ)                  
+- [Daily Japanese with Naoko](https://www.youtube.com/channel/UCMNVKIaw8hV8ln3dDE5z-hA)                  
+- [The Bite size Japanese Podcast](https://www.youtube.com/channel/UCc8QJqwkWe9RcKYZTY2Ezuw)      
+- [あかね的日本語教室](https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw/)                                 
+- [日本語の森](https://www.youtube.com/c/nihongonomori2013) also N3 <                                         
+- [Onomappu](https://www.youtube.com/c/Onomappu)                                                  
+- [日本語 to 旅 〜Nihongo to Tabi〜](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ/)                
+- [しのせんせい](https://www.youtube.com/channel/UC7LVTjJJuDB_Qo0BAOQ8NFg)                                     
+- [Japanese with Noriko](https://www.youtube.com/c/LearnJapanesewithNoriko/)                             
+- [Nihongo News](https://www.youtube.com/c/NihongoNews/)                                                 
+- [Sayuri Saying](https://www.youtube.com/@SayuriSaying)     
+
+Một số các danh sách nghe theo Level (N2) khác:
+- [Japanese Test](https://www.youtube.com/playlist?list=PLXCeHBWxd4iCZ9BbNJBGPFoYXvduL_WQc)
+- [JLPT N2聴解](https://youtube.com/playlist?list=PLjjOUGQqAuxkDBy65hlOWK489jcifUeeE&si=BDPwtcTtU-mjhEKW)
+
 
 ### Đọc 
 
@@ -70,74 +51,9 @@ Các nội dung thêm: Bạn có thể đọc thêm về Comprehensible Japanese
 - [Tadoku](https://tadoku.org/japanese/book-search/?series=010): Đây là phần Graded Reader, tức chia bài đọc theo Level, miễn phí và siêu xịn.
 - [Ehonnavi](https://www.ehonnavi.net/): Khu đọc sách thiếu nhi miễn phí
 
-- [**Thử thách**](https://ehon.alphapolis.co.jp/): Không hẳn là thử thách nhưng đây là trang sách ảnh cho trẻ em của Trung.
-
-Trong giai đoạn đầu tiên, mọi người không nhất thiết chỉ nghe hoặc đọc các nội dung mình đã cho sẵn ở đây mà có thể chủ động tìm kiếm các nguồn khác để cải thiện kĩ năng hiểu của mình với Tiếng Nhật. Các nguồn học liệu bổ sung mình sẽ thêm ở trang "Tài nguyên" nếu bạn muốn tìm hiểu thêm.
-
-## Giai đoạn 2
-Giai đoạn vũ đài "Intermediate" (B1 -> B2). 
-
-Từ giai đoạn này, bạn bắt đầu sẽ thấy Tiếng Nhật trở lên dễ hơn đôi chút, tuy vẫn chưa sẵn sàng cho các nội dung bản ngữ hay nâng cao, nhưng bạn đã có thể hiểu được 1 phần nhỏ của ngôn ngữ này rồi.
-
-### Nghe
-
-- [Intermediate Listening](https://www.youtube.com/playlist?list=PLPdNX2arS9MYUGoIp0qogtHZ3fXu46GQt): Lại thêm một danh sách phát ngắn nữa của EnglishClass101, một bài khởi động trước khi bước vào giai đoạn học tiếp theo.
-
-Vui hơn một chút, các đoạn nghe bắt đầu trở lên tự nhiên hơn.
-
-- [もしもしゆうすけ](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA): Khó hơn chút, vì anh này quay vlog nói một mình hoặc các tình huống giao tiếp ngoài đời thực, có phụ đề.
-- [The bite size Japanese Podcast](https://www.youtube.com/channel/UCc8QJqwkWe9RcKYZTY2Ezuw): Chị layla chia sẻ về trải nghiệm cá nhân bằng Tiếng Nhật. không quá khó nghe vì được làm cho người học nhưng cũng không quá dễ nghe vì cần một lượng từ vựng tương đối.
-- [YUYUの日本語Podcast](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA): Podcast của YUYU rơi vào khoảng N3 ~ N2. 
-- [日本語 to 旅](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ): Nghe Tiếng Nhật có chia Level + Phụ đề
-- [Suzu_nihongo](https://www.youtube.com/@suzu_nihongo/): Tương tự
-- [SayuriSaying](https://www.youtube.com/@SayuriSaying/): Cũng tương tự
-
-
-- [**Thử thách**](https://youtu.be/4389Vt9uo74?si=J1i7QQoZMuWMb7Uw): Đây là bài nghe đầy đủ Choukai N2 dài 1 tiếng. Thử thách bản thân thử xem, gợi ý nên bật x1.25 để nghe tự nhiên hơn :>!
-
-Một số các danh sách nghe theo Level (N2) khác:
-
-- [Japanese Test](https://www.youtube.com/playlist?list=PLXCeHBWxd4iCZ9BbNJBGPFoYXvduL_WQc)
-- [JLPT N2聴解](https://youtube.com/playlist?list=PLjjOUGQqAuxkDBy65hlOWK489jcifUeeE&si=BDPwtcTtU-mjhEKW)
-
-### Đọc:
-
-Mọi người hoàn toàn có thể sử dụng các tài nguyên từ giai đoạn một vì đa phần các trang đó đều có bài đọc cho Level cao hơn.
-
-Một số nguồn đọc gợi ý:
-
+- [Alphapolis Ehon](https://ehon.alphapolis.co.jp/): Không hẳn là thử thách nhưng đây là trang sách ảnh cho trẻ em.
 - [NHK EASY WEB](https://www3.nhk.or.jp/news/easy/): Một trang báo Tiếng Nhật của NHK.
 - [Taishukan](https://www.taishukan.co.jp/item/nihongo_tadoku/index.html)
 - [Watanoc](https://watanoc.com/): Giống NHK EASY WEB, là tin tức được viết đơn giản hóa.
 
-Tớ sẽ bổ sung thêm sớm thui ^^. 
 
-
-## Các nguồn bổ sung
-
-
-### N5/N4:
-
-- [Japanese with Shun](https://www.youtube.com/channel/UCu6sZrHyl4hSS2PvlUo2XZA/) **
-- [Comprehensible Japanese](https://www.youtube.com/c/ComprehensibleJapanese/)      
-
-### N4/N3:
-
-- [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ)                  
-- [Daily Japanese with Naoko](https://www.youtube.com/channel/UCMNVKIaw8hV8ln3dDE5z-hA)                  
-- [The Bite size Japanese Podcast](https://www.youtube.com/channel/UCc8QJqwkWe9RcKYZTY2Ezuw)      
-- [あかね的日本語教室](https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw/)                                 
-- [日本語の森](https://www.youtube.com/c/nihongonomori2013) also N3 <                                         
-- [Yuki's Japanese TV](https://www.youtube.com/channel/UC5l9pe-Z7Jdh4q4ZnBev70w/)                        
-- [三本塾 -Sambon Juku-](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)                   
-- [Onomappu](https://www.youtube.com/c/Onomappu)                                                  
-- [日本語 to 旅 〜Nihongo to Tabi〜](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ/)                
-- [Try! 中級の日本語, Intermediate Japanese learning](https://www.youtube.com/channel/UCD7MHiX-BXRm5D8j4rmJbrA)
-- [もしもしゆうすけ](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA)                                   
-- [じゃぱすた/Let's study Japanese](https://www.youtube.com/channel/UCq62LsItH2ADzfT4dnjtVIA/)                
-- [しのせんせい](https://www.youtube.com/channel/UC7LVTjJJuDB_Qo0BAOQ8NFg)                                     
-- [Japanese with Noriko](https://www.youtube.com/c/LearnJapanesewithNoriko/)                             
-- [Daily Japanese with Naoko](https://www.youtube.com/channel/UCMNVKIaw8hV8ln3dDE5z-hA/)                 
-- [Nihongo News](https://www.youtube.com/c/NihongoNews/)                                                 
-- [YUYU Japanese Radio](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA/)                       
-- [Sayuri Saying](https://www.youtube.com/@SayuriSaying)     

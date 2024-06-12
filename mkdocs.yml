@@ -21,12 +21,6 @@ nav:
   - 'Tổng hợp':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng': 'cong-dong.md'
-  - 'Nội dung Tiếng Nhật':
-    - 'Youtube': 'youtube.md'
-    - 'Podcasts': 'podcasts.md'
-    - 'Phim Ảnh': 'phim-anh.md'
-    - 'Anime & Manga': 'anime.md'
-    - 'LN & VN': 'tieu-thuyet.md'
       
 theme:
   palette:
