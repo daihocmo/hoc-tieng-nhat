@@ -1,7 +1,10 @@
-Đây là trang tài nguyên của TheMoeWay, xem trang gốc và đầy đủ hơn [tại đây](https://learnjapanese.moe/resources/). Bên trang gốc sẽ có nhiều hơn nên mọi người nên qua đó nha, nhất là khi bạn đã có nền Tiếng Anh vững.
+Đây là trang tài nguyên của TheMoeWay, xem trang gốc và đầy đủ hơn . Bên trang gốc sẽ có nhiều hơn nên mọi người nên qua đó nha, nhất là khi bạn đã có nền Tiếng Anh vững.
 
-## Đặc biệt
+
+## Các nhóm tài nguyên chất lượng khác
+- [TheMoeWay](https://learnjapanese.moe/resources/) - Khu tài nguyên của TheMoeWay, tổng hợp cực nhiều tài nguyên hay.
 - [Kuzuri's Resources](https://kuzuri.neocities.org/resources): Trang tổng hợp tất cả tài nguyên học Tiếng Nhật hoàn toàn miễn phí!
+- [Donkuri]() - Tương tự các trang trên
 - [Unofficial languagegainz Discord JP Resource Page](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI/edit#heading=h.vf40j64cv0rm): Một trang tổng hợp tài nguyên của languagegainz.
 - [GaijinRyman](https://github.com/GaijinRyman/JapaneseResources): Tài nguyên học các kiểu của GaijinRyman, trên Github.
 - [Hướng dẫn học ngoại ngữ thông qua YouTube & Netflix](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit)
@@ -136,4 +139,4 @@ Cho việc nghe thụ động, đây là những tệp âm thanh được lọc 
 - [Tải từ điển Nhật - Anh ở trang này](https://github.com/MarvNC/yomichan-dictionaries): Hiện tại vẫn chưa có từ điển Nhật Việt cho Yomitan nào tốt.
 
 #### Các từ điển khác
-- [Mazii]() - Từ điển huyền thoại mà bạn nào học Tiếng Nhật cũng biết.
+- [Mazii](https://mazii.net) - Từ điển huyền thoại mà bạn nào học Tiếng Nhật cũng biết.

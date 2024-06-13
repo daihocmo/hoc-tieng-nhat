@@ -10,17 +10,7 @@ Những cộng đồng học Tiếng Nhật trực tuyến mà bạn có thể t
 
 **Nhật - Anh**
 
-- [TheMoeWay](https://discord.com/invite/nhqjydaR8j) - Có kênh Tiếng Việt trong này.
-- [Japanese English International School (日英国際学校)](https://discord.gg/Q5KaNfT)
-- [Japanese & English (日本語と英語)](https://discord.gg/STHgA9z)
-- [Let's Learn Japanese (日本語を勉強しましょう)](https://discord.gg/XyJwPEG)
-- [Nihongo (日本語)](https://discord.gg/jBv42Ax)
-- [Learning Japanese (becauseofdreams)](https://discord.gg/NDhqJJJ)
-- [Let's aim for Japanese mastery (目指そう、日本語マスター！)](https://discord.gg/aGvhaPf)
-- [Everyday English and Japanese (毎日英語と日本語)](https://discord.gg/MGePVZB)
-- [Japanese study group (日本語の勉強会)](https://discord.gg/ApTPFqa)
-- [Nihongo (日本語)](https://discord.gg/MHM9cMC)
-- [Study Japanese](https://discord.gg/vCpSFJ8)
+- [TheMoeWay](https://discord.com/invite/nhqjydaR8j) - Có kênh Tiếng Việt trong này. Đây là Server duy nhất tớ gợi ý. 
 
 ### Các nhóm đa ngoại ngữ, bao gồm Tiếng Nhật (Discord)
 
@@ -32,5 +22,4 @@ Những cộng đồng học Tiếng Nhật trực tuyến mà bạn có thể t
 
 ### Các diễn đàn, cộng đồng khác
 
-- [r/learnjapanese](https://www.reddit.com/r/LearnJapanese/) - Cộng đồng học Tiếng Nhật lớn nhất trên Reddit
 - [Vozer học Tiếng Nhật](https://voz.vn/t/tong-hop-tat-tan-tat-ve-tieng-nhat-tai-lieu-phuong-phap-hoc-lo-trinh-noi-hoc.18585/): Học Tiếng Nhật trên diễn đàn Voz

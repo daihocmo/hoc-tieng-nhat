@@ -42,7 +42,7 @@ Mình lấy Podcast từ [đây](https://docs.google.com/spreadsheets/d/17P2dBQH
 ### Podcast dành cho người học
 
 | Tên Podcast | Nội dung trên Podcast dưới dạng viết |  Mô tả  |
-| ---- | ------ |
+| ---- | ------ | --- |
 | [Nihongo con Teppei (beginner)](https://open.spotify.com/show/4W4jYoKRmjlURKO1fIfcOK?si=23adf8801cc24ff4) |       | |
 | [Sakura Tips](https://open.spotify.com/show/3FwGWuEg9oAkz4k5fsbyBq?si=ea89d983522b429b) | [https://sakuratips.com/category/pod-cast/](https://sakuratips.com/category/pod-cast/)   | |
 | [Japanese with Shun](https://open.spotify.com/show/0TWRqowC0TPhXlG79M0qzv?si=2889910f4066479a) | [https://www.patreon.com/Japanesewithshun](https://www.patreon.com/Japanesewithshun)     | |
@@ -65,3 +65,85 @@ Mình lấy Podcast từ [đây](https://docs.google.com/spreadsheets/d/17P2dBQH
 | [きまぐれ日本語 Casual Japanese](https://open.spotify.com/show/6ekQVpo6TFZApXTm6qfEsL?si=22a2b023f2e840df) |  | |
 | [4989 American Life](https://open.spotify.com/show/6wMGXwntalyEwmgH0WU3mS?si=3d5b7e52f2c5491c) | [https://www.4989americanlife.com/blog](https://www.4989americanlife.com/blog)           | |
 | [Sayuri Saying](https://open.spotify.com/show/2rJ02XGd3XIT9Ovo1T7llu?si=13737bbd52144a7c) | [https://www.youtube.com/c/SayuriSaying](https://www.youtube.com/c/SayuriSaying)         | |
+
+
+## Light Novel & Web Novel
+- [Khu tổng hợp Light Novel từ dễ đến khó](https://ixrec.neocities.org/immersion/novels)
+- [Web Novel Difficulty List](https://jpdb.io/web-novel-difficulty-list) - Đây là khu tổng hợp các Web Novel Tiếng Nhật từ dễ đến khó cho mọi người.
+
+## Visual Novel
+- [Từ một ai đó không rõ, danh sách gợi ý VN nên chơi](https://anacreondjt.gitlab.io/vn-chart/)
+
+- [Danh sách VN xếp theo độ khó của Chronopolize](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw/edit#gid=0)
+
+- [Một danh sách gợi ý VN khác](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub#id.cwlxotz70k6z)
+
+- [Visual Novel Database](https://vndb.org/)
+
+
+## Phim ảnh
+
+- **Tampopo (たんぽぽ, 1985)** A mix of unique narratives, mainly a trucker helps a Ramenya owner spiff up her Ramen.
+- **The Eel (うなぎ, 1997)** A man rebuilds his life after prison, along with his pet eel.
+- **After Life (ワンダフルライフ, 1998)** I recommend this the most! A group of recently-deceased people must choose their most important memory, film it, then enter that moment for eternity.
+- **Kikujiro (菊次郎の夏, 1999)** A gambler helps a young boy find his long lost mother. Kitano’s in it and beautiful Hisaishi music. Both funny and touching.
+- **Battle Royal (バトル・ロワイアル, 2000)** A school class fights each other to the death on an island. Popular for good reason. Watch before you watch the hunger games.
+- **Eureka (ユリイカ, 2000)** Three survivors process their lives after a bus shooting. Four hours long, but feels like a trip if you get through it.
+- **Taste of Tea (茶の味, 2004)** A family in rural Japan. The brother learns go to confront his crush, the sister is watched by a giant version of herself, the mother works on her anime sequence, the uncle drifts around and records music. Love this movie. So worth watching to the end.
+- **Survive Style 5+ (サバイヴスタイル5＋, 2004)** Three friends, a man whose wife keep returning from the dead, an American hitman, and a family whose father thinks he’s a chicken, and a commercial writer… Be prepared. This director previously only made commercials.
+- **Linda Linda Linda (2005)** Three high school girls recruit a Korean exchange student to be the singer of their rock band.
+- **Tokyo Sonata (トウキョウソナタ, 2008)** A family in Tokyo deteriorates one by one, in a beautiful, overlapping kinda way.
+- **Love Exposure (愛のむきだし, 2008)** Another 4 hour-er (originally, 6). Perverted, but feels epic somehow and admirable for its sheer unorthodoxy.
+- **Kaiji (カイジ 人生逆転ゲーム, 2009)** Ok, based off a manga I think, but liked it. About the misadventures and mind games of a gambler trying to get out of debt.
+- **I wish (奇跡, 2011)** Two brothers living in separate cities plan to run off and meet in Kumamoto where the shinkansen trains cross in order to make a wish for their families to reunite.
+- **Himizu (ヒミズ, 2011)** Watch for some beautiful, poetic, violent teen angst.
+- **Kirishima Thing (桐島、部活やめるってよ, 2012)** The top athlete drops out of school, and nobody knows why. Each scene follows the perspective of a different high schooler, overlapping in time.
+
+- **More Koreeda films:** Still walking, Air doll, Like father like son, Our little sister, After the storm, the third murder, Shoplifters
+- **Comedies by Shinobu Yaguchi:** Swing Girls, Waterboys, Wood Job!, Survival Family, Robo-G
+- **I Are You, You Am Me (転校生, 1982)** A boy and girl fall down at a temple and switch bodies, then have to adjust to life in junior high as the opposite sex.
+- **The girl who leapt through time (時をかける少女, 1983)** High school girl gets the ability to time travel.
+- **A Taxing Woman (マルサの女, 1987)** A tax investigator uses various techniques to catch tax evaders. This won awards, same director as Tampopo, and there’s a sequel.
+- **Welcome Back, Mr. McDonald (ラジオの時間, 1993)** Feel-good flick about a bunch of voice actors doing a live late-night radio drama that devolves into madness due to them carelessly altering the script and improvising. One of the funniest movies I've seen.
+- **Blue (2001)** A friendship between two Japanese schoolgirls escalates into romance.
+- **Hana & Alice (花とアリス, 2004)** Beautiful, emotional comedy-drama. Two girls gaslight a boy into thinking he has amnesia and that one of them is his girlfriend.
+- **Turtles Swim Faster Than Expected (亀は意外と速く泳ぐ, 2005)** A woman finds an ad to become a spy… hard to describe but freaking amazing. Same director as Survive Style 5+.
+- **Rainbow Song (虹の女神, 2006)** A man hears about the death of his close friend, sparking his recollection of the events in life they shared from meeting at a record store, shooting a short film as part of their university film club, to saying their last goodbyes. Sad, but a good movie.
+- **Adrift in Tokyo (転々, 2007)** A whimsical gem: A thug offers to pay a law student’s gambling debt if he accompanies him on a trip across Tokyo.
+- **I just didn’t do it (それでもボクはやっていない, 2007)** A guy’s life goes off the rails when he's falsely accused of molesting a woman on the train. Relatively easy to understand.
+- **Departures (2008)** A cellist learns his true calling as a mortician.
+- **Fine, fine, totally fine (全然大丈夫, 2008)** Two friends fall in love with the same girl. This movie is a real gem.
+- **Instant Numa (インスタント沼, 2009)** A woman searches for her father, she finds a man running a pawn shop, all kinds of hilarious situations ensue.
+- **Symbol (しんぼる, 2009)** The Spanish language plot-line follows a wrestler, and the Japanese plotline follows a man who wakes up in a plain white room, and eventually starts to set off these weird reactions from the room he's trapped in.
+- **Confessions (告白, 2010)** A high school teacher confronts the students who killed her daughter. Watch for some beautiful dark revenge.
+- **モテキ (2011)** This is just a silly rom-com, but I really liked it.
+- **Key of life (鍵泥棒のメソッド, 2012)** A failed actor changes identities with a stranger in a bathhouse and discovers the man is an elite assassin. Witty writing, fun for learners.
+- **Flowers in the shadows (陰日向に咲く, 2008)** for interweaving, melodramatic, but genuinely engaging plot threads. Coincidences, twists and redemption stories.
+- **100 Yen Love (百円の恋, 20014)** A woman moves out to live on her own, working in a convenience store, then after meeting a boxer decides to take up boxing. Warning: one hard to watch sexual assault scene, but otherwise really good movie.
+- **Happy Hour (ハッピーアワー, 2015)** Another 4-hour movie! A slice of life of four women in their thirties who are friends. Absolutely beautiful.
+- **My father, the bride (おいしい家族, 2019)** A woman returns from Tokyo to her small island home to discover that her father has decided to live as a woman and remarry. A funny, touching, fascinating film.
+- Ringu, 
+- The Grudge, 
+- Pulse, 
+- Dark Water, 
+- Suicide Club, 
+- Cure 
+- Battle Royale.
+- For more j-horror, I highly recommend is **One Cut of the Dead (カメラを止めるな！)** which is a zombie film. 
+- **Godzilla Minus One (ゴジラ-1.0)** is more kaiju than pure horror but Godzilla is absolutely terrifying in this film. It is a seriously good movie, that also covers post-war Japan and I was not expecting to get so emotional while watching it. I will say that some of the dialogue may be hard for you to parse when they go into battle plans of defeating Godzilla, but there's a lot of slice-of-life dialogue as it follows a young man trying to rebuild his life in post-war Tokyo. Regardless, I highly recommend this film as it might be my movie of the year.
+- For slice-of-life, someone mentioned **Hirokazu Koreeda** and that's a great suggestion too because the acting is more natural so the dialogue will test your hearing a lot more than other films, because characters aren't just to say every word with perfected diction. He also often uses first time actors.
+- Tokyo Story is his most famous film but I recommend checking out the entire "Noriko trilogy" as in some ways I like the earlier movies more but they all pack a big emotional punch (his film at first seem to be about nothing, but it very slowly ramps up the emotional intensity).
+- **Late Spring (晩春, Banshun)**
+- **Early Summer (麥秋, Bakushū)**
+- **Tokyo Story (東京物語, Tōkyō Monogatari)**
+- If you want a more modern director / film. one recent film that was really cool from a learner's perspective was [The Great Passage (舟を編む Fune Wo Amu)](https://mydramalist.com/6615-the-great-passage). 
+- It's based on the book, also called 舟を編む, and it's just been made into [a spin-off TV show](https://mydramalist.com/759225-fune-wo-amu-watashi-jisho-tsukurimasu), that is now airing in Japan.
+- **A Taxing Woman (マルサの女)**
+- **The Funeral (お葬式)**
+- "Tales of Terror from Tokyo" (怪談新耳袋, Maidan Shin Mimibukuro) series. 
+- Yami Shibai (闇芝居) anime series.
+- "Hell Teacher Nūbē" (地獄先生ぬ〜べ〜, Jigoku Sensei Nūbē) and 
+- Ghost Stories (学校の怪談, Gakkō no Kaidan)
+- "Mieruko-chan" (見える子ちゃん) is also quite good.
+- Kwaidan. It's a group of four samurai-age horror stories. Altogether, it's about three hours.
+- "Confessions" (告白, Kokuhaku): more of a thriller than a horror

@@ -12,12 +12,14 @@ nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
     - 'JLPT': 'jlpt.md'
-    - 'Đầu vào dễ hiểu': 'input-guide.md'
+    - 'Comprehensible Input': 'input-guide.md'
     - 'Immersion': 'guide.md'
   - 'Khu linh tinh':
     - 'Anime': 'jp-anime.md'
+    - 'Đọc': 'doc.md'
   - 'Công cụ':
     - 'Yomichan': 'setup-yomichan.md'
+    - 'Sentence Mining': 'sentence-mining.md'
   - 'Tổng hợp':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng': 'cong-dong.md'
@@ -45,7 +47,7 @@ theme:
         name: Switch to light mode
   features:
     - navigation.instant
-    - navigation.sections
+    - navigation.tabs
     - search.suggest
     - search.highlighting
     - search.share
