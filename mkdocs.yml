@@ -14,17 +14,24 @@ nav:
     - 'JLPT': 'jlpt.md'
     - 'Comprehensible Input': 'input-guide.md'
     - 'Immersion': 'guide.md'
-  - 'Khu linh tinh':
+  - 'FAQ':
+    - 'Câu hỏi thường gặp': 'faq.md'
+  - 'Học qua J-Media':
     - 'Anime': 'jp-anime.md'
     - 'Đọc': 'doc.md'
-  - 'Công cụ':
+  - 'Công cụ & Cài đặt':
     - 'Yomichan': 'setup-yomichan.md'
     - 'Sentence Mining': 'sentence-mining.md'
   - 'Tổng hợp':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng': 'cong-dong.md'
   - 'Media':
-    - 'Kho nội dung': 'media.md'
+    - 'Youtube': 'youtube.md'
+    - 'Podcast': 'podcasts.md'
+    - 'LN & VN': 'novel.md'
+    - 'Phim & Drama': 'phim.md'
+    - 'Sách': 'sach.md'
+    - 'Audiobooks': 'audiobook.md'
       
 theme:
   palette:
