@@ -12,14 +12,6 @@ Những cộng đồng học Tiếng Nhật trực tuyến mà bạn có thể t
 
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j) - Có kênh Tiếng Việt trong này. Đây là Server duy nhất tớ gợi ý. 
 
-### Các nhóm đa ngoại ngữ, bao gồm Tiếng Nhật (Discord)
-
-- [TheLanguageSloth](https://discord.com/invite/languages)
-- [Cave of Linguists](https://discord.gg/J2Mg8hZ)
-- [Cultural Exchange Server](https://discord.gg/x9B5gNF)
-- [Everyday Languages](https://discord.gg/R7MT8J9UEG)
-- [The Global Language Federation](https://discord.gg/A9yUrtm)
-
 ### Các diễn đàn, cộng đồng khác
 
 - [Vozer học Tiếng Nhật](https://voz.vn/t/tong-hop-tat-tan-tat-ve-tieng-nhat-tai-lieu-phuong-phap-hoc-lo-trinh-noi-hoc.18585/): Học Tiếng Nhật trên diễn đàn Voz

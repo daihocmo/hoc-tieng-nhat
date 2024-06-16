@@ -11,9 +11,8 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
-    - 'JLPT': 'jlpt.md'
-    - 'Comprehensible Input': 'input-guide.md'
-    - 'Immersion': 'guide.md'
+    - 'Lộ trình học': 'guide.md'
+    - 'Đầu vào dễ hiểu': 'input-guide.md'
   - 'FAQ':
     - 'Câu hỏi thường gặp': 'faq.md'
   - 'Học qua J-Media':

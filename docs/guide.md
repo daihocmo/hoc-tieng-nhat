@@ -1,4 +1,4 @@
-### Cộng đồng
+## Cộng đồng
 
 Nếu bạn có mức Tiếng Anh ổn hoặc tốt và muốn tham gia cộng đồng học thì có thể tham gia TheMoeWay, trong Discord Server này có rất nhiều người giỏi (trong đó có mình, tất nhiên rồi )
 
@@ -10,7 +10,7 @@ Discord Server:  [Discordサーバー「TheMoeWay」に参加しよう！](https
 Hoặc nếu bạn muốn học theo kiểu Nhật - Việt, hoặc vốn Tiếng Anh của bạn chưa đủ chắc thì có thể thử Ngoại ngữ Phim và Game.
 
 
-### Bắt đầu bài viết
+## Bắt đầu bài viết
 
 Điểm mấu chốt của phương pháp: TẬP TRUNG TOÀN BỘ THỜI GIAN VÀO ĐỌC VÀ NGHE (Ở Tiếng Nhật ta có ANIME, MANGA, LIGHTNOVEL), VIỆC NÓI VÀ VIẾT CHỈ TỐN THỜI GIAN VÀ GÂY HẠI CHO NGÔN NGỮ CỦA BẠN, NHẤT LÀ Ở GIAI ĐOẠN ĐẦU. Về sau khi bạn đã đạt trình độ cao thì việc nói viết sẽ đến với bạn một cách tự nhiên.
 
@@ -18,6 +18,7 @@ Bổ sung: bài viết dành cho những người muốn đạt được mức �
 
 Mình không ám chỉ rằng việc học trung tâm hay theo phương pháp truyền thống là xấu, sẽ không có cái gì là "một cho tất cả", mọi thứ đều vậy. Trung tâm có một lộ trình rõ ràng, có hướng dẫn bài bản, thời gian học ít cộng với đảm bảo đầu ra (Chứ không đảm bảo bạn sẽ thực sự giỏi, cũng tương tự như nuôi gà công nghiệp vậy). Vậy nên nếu đó là những gì bạn cần, hãy chọn nó.
 
+## Hiểu về phương pháp học
 
 1. Hiểu về Input, Output trong ngoại ngữ:
 
@@ -36,28 +37,43 @@ Bạn cần kiến thức trước khi nói viết, nên nạp thật nhiều In
 
 Bạn cần bắt đầu như thế nào để có thể học Tiếng Nhật theo phương pháp này, việc học sẽ được tối ưu hơn nếu bạn sử dụng máy tính / laptop:
 
-#### 1: Học bảng chữ cái: Hiragana và Katakana:
+
+## 1: Học bảng chữ cái: Hiragana và Katakana:
+
+### Học theo lộ trình JLPT
+
+Tự học Tiếng Nhật từ đầu theo lộ trình JLPT
+
+Bạn có thể tham khảo lộ trình tự học dựa trên giáo trình Marugoto của CLAWDIRE trên diễn đàn Voz [tại đây](https://voz.vn/t/tong-hop-tat-tan-tat-ve-tieng-nhat-tai-lieu-phuong-phap-hoc-lo-trinh-noi-hoc.18585/)
+
+
+### Bảng chữ cái (Kana, Kanji)
 
 Bạn nên (cần) học cả hai bảng này đầu tiên, và là thử thách đầu tiên trong việc học một ngôn ngữ (bảng chữ cái mới, khác so với Tiếng Việt) của mình, nếu bạn học được hai bảng này thì bạn đã vượt qua được cột mốc đầu tiên.
 
 Còn hai loại khác nữa là Kanji (漢字) - Hán Tự, Romaji (ローマ字) - Tiếng Nhật nhưng nó trông như thế này: Ganbatte, Kirai .etc.
 
-#### 2: Cài đặt công cụ:
+Cày Kanji: Bạn nên cày hơn 400 Kanji trong bộ RRTK450 (450 Kanji phổ biến), tải bộ thẻ Anki của nó ở đây. Hoặc học hết 2136 Joyo Kanji, bạn tải bộ thẻ học Kanji thông qua hình ảnh: <https://ankivn.com/uncategorized/deck-tango-n321vietsub/> (Bạn kéo xuống có bộ thẻ Kanji ở cuối, tải nó)
+
+
+### Khối kiến thức cơ bản
+
+Bạn có thể sẽ muốn cày một số lượng nhất định từ vựng và các thứ để giúp bạn xem media Nhật tốt hơn và từ đó học được nhiều hơn
+
+- Cày từ vựng: Bạn có thể dùng bộ Kaishi1.5k để học khoảng 1500 từ vựng Nhật được dùng nhiều trong Anime, Manga hoặc LN trước khi thực sự đắm chìm mình vào chúng. Nếu bạn thích cày [từ vựng N3, N2, N1 thì cày Tango](https://ankivn.com/uncategorized/deck-tango-n321vietsub/)
+- Cày ngữ pháp: Các cấu trúc câu hay các phần ngữ pháp trong Tiếng Nhật, bạn có thể xem Cure Dolly hoặc Tae Kim's grammar guide (Từ 1 trong 2 cái này rồi lên Nihongo-Kyoshi đọc ngữ pháp từ N5 đến N1). Hoặc cày ngữ pháp JLPT từ N5 đến N1, chỗ nào cũng được (Bằng Tiếng Việt).
+
+**Bạn nên tiêu thụ nội dung song song với việc học ở trên, đọc thêm ở bên dưới.**
+
+## 2: Cài đặt công cụ:
 
 Hai công cụ cần thiết nhất mà bạn nên cài là:
 
 -  Anki (SRS - Hệ thống lặp lại ngắt quãng - Giúp ôn tập và học mọi thứ, từ vựng, Kanji, cấu trúc ngữ pháp)
 - Yomitan, từ điển Popup cho trình duyệt dành cho Tiếng Nhật (Hoặc Trung Hàn đều có từ điển do cộng đồng làm). Hướng dẫn cài đặt hoặc sử dụng thì bạn có thể xem ở trang TheMoeWay hoặc trên Youtube nha ^^.
 
-#### 3 Cày cuốc
 
-Bạn có thể sẽ muốn cày một số lượng nhất định từ vựng và các thứ để giúp bạn xem media Nhật tốt hơn và từ đó học được nhiều hơn
-
-- Cày từ vựng: Bạn có thể dùng bộ Kaishi1.5k để học khoảng 1500 từ vựng Nhật được dùng nhiều trong Anime, Manga hoặc LN trước khi thực sự đắm chìm mình vào chúng. Nếu bạn thích cày [từ vựng N3, N2, N1 thì cày Tango](https://ankivn.com/uncategorized/deck-tango-n321vietsub/)
-- Cày ngữ pháp: Các cấu trúc câu hay các phần ngữ pháp trong Tiếng Nhật, bạn có thể xem Cure Dolly hoặc Tae Kim's grammar guide (Từ 1 trong 2 cái này rồi lên Nihongo-Kyoshi đọc ngữ pháp từ N5 đến N1). Hoặc cày ngữ pháp JLPT từ N5 đến N1, chỗ nào cũng được (Bằng Tiếng Việt).
-- Cày Kanji: Bạn nên cày hơn 400 Kanji trong bộ RRTK450 (450 Kanji phổ biến), tải bộ thẻ Anki của nó ở đây. Hoặc học hết 2136 Joyo Kanji, bạn tải bộ thẻ học Kanji thông qua hình ảnh: <https://ankivn.com/uncategorized/deck-tango-n321vietsub/> (Bạn kéo xuống có bộ thẻ Kanji ở cuối, tải nó) 
-
-#### 4 Đắm mình
+## 3: Đắm mình
 
 Chúng ta bắt đầu đắm chìm vào Tiếng Nhật sau khi tiếp thu được một khối lượng tương đối, bạn có thể tìm hiểu về sentence mining, khai thác các từ mới thông qua các câu xuất hiện trên Media bạn tiêu thụ. 
 
@@ -67,7 +83,7 @@ Chúng ta bắt đầu đắm chìm vào Tiếng Nhật sau khi tiếp thu đư�
 
 Nhiệm vụ duy nhất bạn cần làm bây giờ: Đắm mình vào ngoại ngữ càng nhiều càng tốt.
 
-#### 5 Đắm mình hơn nữa
+## 4: Đắm mình hơn nữa, dành nhiều thời gian cho nó hơn nữa
 
 Tiếp tục tiêu thụ và bạn có thể sẽ đạt được mục tiêu của mình.
 
