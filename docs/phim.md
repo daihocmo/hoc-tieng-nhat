@@ -1,3 +1,4 @@
+Trang đang tổng hợp các bộ phim thu gom từ nhiều nguồn, chưa sắp xếp nên bạn có thể đọc thử để tìm phim và xem.
 
 - **Tampopo (たんぽぽ, 1985)** A mix of unique narratives, mainly a trucker helps a Ramenya owner spiff up her Ramen.
 - **The Eel (うなぎ, 1997)** A man rebuilds his life after prison, along with his pet eel.
@@ -14,7 +15,6 @@
 - **I wish (奇跡, 2011)** Two brothers living in separate cities plan to run off and meet in Kumamoto where the shinkansen trains cross in order to make a wish for their families to reunite.
 - **Himizu (ヒミズ, 2011)** Watch for some beautiful, poetic, violent teen angst.
 - **Kirishima Thing (桐島、部活やめるってよ, 2012)** The top athlete drops out of school, and nobody knows why. Each scene follows the perspective of a different high schooler, overlapping in time.
-
 - **More Koreeda films:** Still walking, Air doll, Like father like son, Our little sister, After the storm, the third murder, Shoplifters
 - **Comedies by Shinobu Yaguchi:** Swing Girls, Waterboys, Wood Job!, Survival Family, Robo-G
 - **I Are You, You Am Me (転校生, 1982)** A boy and girl fall down at a temple and switch bodies, then have to adjust to life in junior high as the opposite sex.

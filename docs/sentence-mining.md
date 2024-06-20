@@ -3,6 +3,7 @@
 ## Hướng dẫn bằng Tiếng Việt
 
 ### Đọc
+- [Hướng dẫn đào câu cơ bản](https://daihocmo.github.io/ngoai-ngu/sentence-mining/)
 - [Hướng dẫn đào câu trên Netflix bằng Asbplayer](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit)
 
 ### Video

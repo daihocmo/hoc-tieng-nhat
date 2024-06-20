@@ -1,4 +1,4 @@
-site_name: Tu luyện Tiếng Nhật
+site_name: Tôi luyện Tiếng Nhật
 site_description: Tự học Tiếng Nhật thông qua Immersion và Comprehensible Input. Hoàn toàn miễn phí.
 site_author: onlyduyy  
 theme:
@@ -15,16 +15,24 @@ nav:
     - 'Đầu vào dễ hiểu': 'input-guide.md'
   - 'FAQ':
     - 'Câu hỏi thường gặp': 'faq.md'
-  - 'Học qua J-Media':
+  - 'Nhật Bản':
+    - 'Văn hóa': 'van-hoa.md'
+    - 'Ẩm thực': 'am-thuc.md'
+    - 'Du lịch': 'du-lich.md'
+  - 'Media':
     - 'Anime': 'jp-anime.md'
-    - 'Đọc': 'doc.md'
+    - 'Manga': 'manga.md'
+    - 'Lightnovel': 'lightnovel.md'
+    - 'Visual Novel': 'visual-novel.md'
+    - 'Game': 'game.md'
+    - 'Sách': 'sach-nonfiction.md'
   - 'Công cụ & Cài đặt':
     - 'Yomichan': 'setup-yomichan.md'
     - 'Sentence Mining': 'sentence-mining.md'
   - 'Tổng hợp':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng': 'cong-dong.md'
-  - 'Media':
+  - 'Nội dung tiêu thụ':
     - 'Youtube': 'youtube.md'
     - 'Podcast': 'podcasts.md'
     - 'LN & VN': 'novel.md'

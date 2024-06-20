@@ -1,4 +1,4 @@
-# Tổng hợp về Light Novel và Web Novel
+Mình không tự làm do đa phần đã có những người trên Internet làm một danh sách chất lượng hơn rất nhiều. Bạn có thể tham khảo thông qua các danh sách dưới.
 
 ## Light Novel & Web Novel
 - [Khu tổng hợp Light Novel từ dễ đến khó](https://ixrec.neocities.org/immersion/novels)
