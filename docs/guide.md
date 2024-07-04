@@ -42,26 +42,22 @@ Bạn cần bắt đầu như thế nào để có thể học Tiếng Nhật th
 
 ### Học theo lộ trình JLPT
 
-Tự học Tiếng Nhật từ đầu theo lộ trình JLPT
+Tự học Tiếng Nhật từ đầu theo lộ trình JLPT.
 
-Bạn có thể tham khảo lộ trình tự học dựa trên giáo trình Marugoto của CLAWDIRE trên diễn đàn Voz [tại đây](https://voz.vn/t/tong-hop-tat-tan-tat-ve-tieng-nhat-tai-lieu-phuong-phap-hoc-lo-trinh-noi-hoc.18585/)
+### Bảng chữ cái
 
-
-### Bảng chữ cái (Kana, Kanji)
-
-Bạn nên (cần) học cả hai bảng này đầu tiên, và là thử thách đầu tiên trong việc học một ngôn ngữ (bảng chữ cái mới, khác so với Tiếng Việt) của mình, nếu bạn học được hai bảng này thì bạn đã vượt qua được cột mốc đầu tiên.
-
-Còn hai loại khác nữa là Kanji (漢字) - Hán Tự, Romaji (ローマ字) - Tiếng Nhật nhưng nó trông như thế này: Ganbatte, Kirai .etc.
-
-Cày Kanji: Bạn nên cày hơn 400 Kanji trong bộ RRTK450 (450 Kanji phổ biến), tải bộ thẻ Anki của nó ở đây. Hoặc học hết 2136 Joyo Kanji, bạn tải bộ thẻ học Kanji thông qua hình ảnh: <https://ankivn.com/uncategorized/deck-tango-n321vietsub/> (Bạn kéo xuống có bộ thẻ Kanji ở cuối, tải nó)
+- Bạn nên (cần) học cả hai bảng chữ cái Hiragana và Katakana đầu tiên, và là thử thách đầu tiên trong việc học một ngôn ngữ (bảng chữ cái mới, khác so với Tiếng Việt) của mình, nếu bạn học được hai bảng này thì bạn đã vượt qua được cột mốc đầu tiên. Có hàng tá các hướng dẫn học bảng chữ cái này trên mạng.
+- Romaji (ローマ字): Tiếng Nhật nhưng nó trông như thế này: Ganbatte, Kirai .etc.
+- Kanji (漢字): Bạn nên cày hơn 400 Kanji trong bộ RRTK450 (450 Kanji phổ biến), tải bộ thẻ Anki của nó ở đây. Hoặc học hết 2136 Joyo Kanji, bạn tải bộ thẻ [học Kanji thông qua hình ảnh](https://ankivn.com/uncategorized/deck-tango-n321vietsub) (Bạn kéo xuống có bộ thẻ Kanji ở cuối, tải nó)
 
 
 ### Khối kiến thức cơ bản
 
 Bạn có thể sẽ muốn cày một số lượng nhất định từ vựng và các thứ để giúp bạn xem media Nhật tốt hơn và từ đó học được nhiều hơn
 
-- Cày từ vựng: Bạn có thể dùng bộ Kaishi1.5k để học khoảng 1500 từ vựng Nhật được dùng nhiều trong Anime, Manga hoặc LN trước khi thực sự đắm chìm mình vào chúng. Nếu bạn thích cày [từ vựng N3, N2, N1 thì cày Tango](https://ankivn.com/uncategorized/deck-tango-n321vietsub/)
+- Cày từ vựng: Bạn có thể dùng bộ Kaishi để học khoảng 1500 từ vựng Nhật được dùng nhiều trong Anime, Manga hoặc LN trước khi thực sự đắm chìm mình vào chúng. Bạn có thể tự tìm bộ thẻ khác phù hợp với mình cũng được. Nhưng khi qua giai đoạn này, bạn nên tự tạo thẻ từ vựng thông qua các nội dung mà bạn tiêu thụ.
 - Cày ngữ pháp: Các cấu trúc câu hay các phần ngữ pháp trong Tiếng Nhật, bạn có thể xem Cure Dolly hoặc Tae Kim's grammar guide (Từ 1 trong 2 cái này rồi lên Nihongo-Kyoshi đọc ngữ pháp từ N5 đến N1). Hoặc cày ngữ pháp JLPT từ N5 đến N1, chỗ nào cũng được (Bằng Tiếng Việt).
+- Cày Kanji đơn lẻ: Việc học Kanji đơn lẻ sẽ giúp bạn cải thiện khả năng nhớ từ vừng.
 
 **Bạn nên tiêu thụ nội dung song song với việc học ở trên, đọc thêm ở bên dưới.**
 
@@ -69,17 +65,16 @@ Bạn có thể sẽ muốn cày một số lượng nhất định từ vựng 
 
 Hai công cụ cần thiết nhất mà bạn nên cài là:
 
--  Anki (SRS - Hệ thống lặp lại ngắt quãng - Giúp ôn tập và học mọi thứ, từ vựng, Kanji, cấu trúc ngữ pháp)
+- Anki (SRS - Hệ thống lặp lại ngắt quãng - Giúp ôn tập và học mọi thứ, từ vựng, Kanji, cấu trúc ngữ pháp)
 - Yomitan, từ điển Popup cho trình duyệt dành cho Tiếng Nhật (Hoặc Trung Hàn đều có từ điển do cộng đồng làm). Hướng dẫn cài đặt hoặc sử dụng thì bạn có thể xem ở trang TheMoeWay hoặc trên Youtube nha ^^.
-
 
 ## 3: Đắm mình
 
 Chúng ta bắt đầu đắm chìm vào Tiếng Nhật sau khi tiếp thu được một khối lượng tương đối, bạn có thể tìm hiểu về sentence mining, khai thác các từ mới thông qua các câu xuất hiện trên Media bạn tiêu thụ. 
 
-- Tìm hiểu về Sentence Mining thông qua bài viết của Refold: [Basic Sentence Mining | Refold](https://refold.la/roadmap/stage-2/a/basic-sentence-mining) 
+- Tìm hiểu về Sentence Mining thông qua [bài viết này](https://daihocmo.github.io/ngoai-ngu/sentence-mining/)
 - Hướng dẫn bằng Tiếng Việt cách làm Sentence Mining bằng Tiếng Việt bởi Đạt Nguyễn: [Hướng dẫn Sentence Mining](https://www.youtube.com/watch?v=PLnJ1l6f7mQ)
-- Nếu bạn không biết mình "nên" xem gì, thử tìm ở [Japanese Media Recommendation](https://ixrec.neocities.org/immersion/)
+- Nếu bạn không biết mình "nên" xem gì, thử ghé mục "Nội dung tiêu thụ" trong trang web này.
 
 Nhiệm vụ duy nhất bạn cần làm bây giờ: Đắm mình vào ngoại ngữ càng nhiều càng tốt.
 
@@ -91,4 +86,3 @@ Cho những người muốn học viết:
 
 - Học viết Kanji: Sử dụng bộ thẻ Kanken: [Tải tại đây](https://mega.nz/file/VVdkUZbI#lGvxw2hDkw7JCEWa90cViY7cpYatf1SPUrE0Aw0OdDQ) (Học Học viết Kanji khi đã biết đọc) 
 
-Mọi người có thắc mắc thì có thể hỏi ở bên dưới nha. Thanks mn nhìu :>

@@ -1,19 +1,18 @@
-Đây là trang tài nguyên của TheMoeWay, xem trang gốc và đầy đủ hơn . Bên trang gốc sẽ có nhiều hơn nên mọi người nên qua đó nha, nhất là khi bạn đã có nền Tiếng Anh vững.
+Đây là trang tài nguyên tổng hợp đơn giản. Để tìm được những nguồn tài nguyên chất lượng, hãy nhìn ở ngay mục dưới đây để lựa chọn, mục "Khu tài nguyên gợi ý".
 
 
-## Các nhóm tài nguyên chất lượng bạn nên tìm
+## Khu tài nguyên gợi ý
 
 Bạn chỉ cần tập trung vào TheMoeWay, ở đây gần như sẽ có tất cả những gì bạn cần để học Tiếng Nhật. Bạn có thể sang bên khu tổng hợp của Donkuri hoặc của Kuzuri
 
 - [TheMoeWay](https://learnjapanese.moe/resources/) - Khu tài nguyên của TheMoeWay, tổng hợp cực nhiều tài nguyên hay.
 - [Donkuri](https://donkuri.github.io/learn-japanese) - Tương tự các trang trên
 - [Kuzuri's Resources](https://kuzuri.neocities.org/resources): Trang tổng hợp tất cả tài nguyên học Tiếng Nhật hoàn toàn miễn phí!
-
 - [JPDB](https://jpdb.io/) - A powerful Japanese dictionary, all-in-one learning system (Học rất nhiều Tiếng Nhật thông qua Anime, Manga, Novel .v.v.)
+- [Awesome Japanese](https://github.com/yudataguy/Awesome-Japanese) - Danh sách các tài nguyên học Tiếng Nhật. Bạn có thể sẽ muốn đọc 4 phần ở trên hơn.
 
 ## Bổ sung
 - [Hướng dẫn học ngoại ngữ thông qua YouTube & Netflix](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit) - Nếu bạn dự định sẽ cày toàn bộ nội dung trên trình duyệt thay vì tải về để cày và sử dụng asbplayer thì đây là hướng dẫn dành cho bạn.
-
 - [Unofficial languagegainz Discord JP Resource Page](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI/edit#heading=h.vf40j64cv0rm): Một trang tổng hợp tài nguyên của languagegainz.
 - [GaijinRyman](https://github.com/GaijinRyman/JapaneseResources): Tài nguyên học các kiểu của GaijinRyman, trên Github.
 
@@ -23,11 +22,11 @@ Bạn chỉ cần tập trung vào TheMoeWay, ở đây gần như sẽ có tấ
 - [DJT Kana](https://djtguide.neocities.org/kana/index.html) - Game để học Hiragana và Katakana
 
 ### Kanji
-**Nhắc nhỏ:** [Đọc nhiều](doc.md) là cách tốt nhất để học Kanji
+**Nhắc nhỏ:** Đọc nhiều là cách tốt nhất để học Kanji
 
 - [Bộ thủ Kanji](https://ankivn.com/bo-the/ngoai-ngu/tieng-nhat/bo-thu-chu-han/) - Học bộ thủ giúp việc học Kanji trở lên đơn giản hơn 
 - [Bộ thẻ Kanji N5-N1](https://ankivn.com/bo-the/ngoai-ngu/tieng-nhat/ngu-phap-tieng-nhat-n5-n1-mazii/) - Lấy danh sách Kanji tổng hợp từ Mazii
-
+- [Học Kanji thông qua truyện và hình ảnh](https://ankivn.com/uncategorized/deck-tango-n321vietsub/) - Bạn kéo xuống dưới trang để tìm nha
 
 ### Từ vựng
 
@@ -37,7 +36,7 @@ Bạn chỉ cần tập trung vào TheMoeWay, ở đây gần như sẽ có tấ
 ### Ngữ pháp
 
 - [Tổng hợp ngữ pháp của Mazii](https://mazii.net/vi-VN/jlpt/grammar/) - Đây là trang tổng hợp ngữ pháp từ N5 đến N1 của Mazii, từ điển mà bạn nào học Tiếng Nhật - Việt cũng biết.
-- [Tae Kim](https://guidetojapanese.org/learn/grammar): Hướng dẫn cho người mới học, bạn có thể học cùng với [bộ thẻ Anki này](https://ankiweb.net/shared/info/911122782), hướng dẫn bằng Tiếng Anh. Nên đọc, mình thực sự thích cách chú giải thích ngữ pháp. Có khá nhiều người trong các cộng đồng học chê các ví dụ thiếu tự nhiên hoặc một số nội dung bị sai, nhưng nhìn chung, hướng dẫn Tae Kim vẫn thực sự rất đáng để học, nhất là với những người quyết định thực hành AJATT và đi với full-time Immersion!
+- [Tae Kim](https://guidetojapanese.org/learn/grammar): Hướng dẫn cho người mới học, hướng dẫn bằng Tiếng Anh. Nên đọc, mình thực sự thích cách chú giải thích ngữ pháp. Có khá nhiều người trong các cộng đồng học chê các ví dụ thiếu tự nhiên hoặc một số nội dung bị sai, nhưng nhìn chung, hướng dẫn Tae Kim vẫn thực sự rất đáng để học, nhất là với những người quyết định thực hành AJATT và đi với full-time Immersion!
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - Học ngữ pháp JLPT bằng Tiếng Nhật, tránh bị hiểu sai khi dịch song ngữ.
 - **[※ - NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** - Học ngữ pháp JLPT bằng Tiếng Nhật, tránh bị hiểu sai khi dịch song ngữ, bộ thẻ Anki.
 

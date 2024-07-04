@@ -6,12 +6,11 @@ Những cộng đồng học Tiếng Nhật trực tuyến mà bạn có thể t
 
 **Nhật - Việt**
 
-- [(vozer) Tiếng Nhật đơn giản](https://discord.com/invite/5qc4BhAzau)
+- [(vozer) Tiếng Nhật đơn giản](https://discord.com/invite/5qc4BhAzau) - Không nên vào đây, nhưng nếu bạn cảm thấy muốn tìm một cộng đồng học Tiếng Nhật ở Việt Nam đủ lớn thì có thể vào.
 
 **Nhật - Anh**
-
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j) - Có kênh Tiếng Việt trong này. Đây là Server duy nhất tớ gợi ý. 
 
 ### Các diễn đàn, cộng đồng khác
 
-- [Vozer học Tiếng Nhật](https://voz.vn/t/tong-hop-tat-tan-tat-ve-tieng-nhat-tai-lieu-phuong-phap-hoc-lo-trinh-noi-hoc.18585/): Học Tiếng Nhật trên diễn đàn Voz
+- [Vozer học Tiếng Nhật](https://voz.vn/t/tong-hop-tat-tan-tat-ve-tieng-nhat-tai-lieu-phuong-phap-hoc-lo-trinh-noi-hoc.18585/): Học Tiếng Nhật trên diễn đàn Voz, cũng chính là hội Discord ở trên.

@@ -1,19 +1,8 @@
--  [Kho gợi ý các kênh Youtube bằng Tiếng Nhật](https://ixrec.neocities.org/immersion/youtube_channels)
+Đây là các đường dẫn cho mọi người tự đi mò :D
 
-Ở đây mình có bổ sung thêm một số các kênh khác mà bạn có thể sẽ muốn xem.
-
-| Channel Name | Genre | Description | Picture |
-| ------------ | ----- | ----------- | ------- |
-| [PC-FREEDOM](https://www.youtube.com/watch?v=hNwAhPsin0I/)     | Technology      | Focused on Linux but it also covers technology in general   | |
-| [中田敦彦のYouTube大学 - NAKATA UNIVERSITY*](https://www.youtube.com/watch?v=PXtRaM8sZRc)  | Skits   | A comedian that gives lectures on all kind of topics, from anime, to politics and life lessons| |
-| [ちょっと一息 ch](https://www.youtube.com/watch?v=-6ALQf0ICpU)       | Travel  | Travel Vlogger    | |
-| [脱サラ さいとう夫婦](https://www.youtube.com/watch?v=ymUhXb9-s9k)      | Travel  | Camping, outdoors, vanlife       | |
-| [FUJIWARA LIFE・美容師の日常](https://www.youtube.com/channel/UCpa-kEaXFILCfIpR3ge4InQ)    |  |     | |
-| [山田千紘 ちーチャンネル](https://www.youtube.com/channel/UC8LaxjG_1edMnm6HninrFsg)    |  |     | |
-| [ハートカフェ](https://www.youtube.com/channel/UCgkBpACTOjK4-6llCiRnX7A)   |  |     | |
-| [桐崎栄二.きりざきえいじ](https://www.youtube.com/channel/UCzKa8fRPoCbKh8O9yW2JK2g)    |  |     | |
-| [公式 お金の専門学校](https://www.youtube.com/channel/UCCEoqaOzY9__AReWKXrvt8Q)      |  |     | |
-| [はじめまして松尾です](https://www.youtube.com/channel/UCWtLzcASRAjlVhKibLUCuEw)      |  |     | |
-| [ジェルちゃんねる](https://www.youtube.com/channel/UCE0UZVTfvQ8jiNxdIlLeWeA) |  |     | |
-| [Nihongo no Mori](https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w) | Education       | Dũng Mori, nhưng toàn là Tiếng Nhật.   | |
-| [スカートで旅するCHIERU](https://www.youtube.com/watch?v=hedmHpk5wQk)  | Travel  | Travel anywhere with a skirt     | |
+-  [**Kho gợi ý các kênh Youtube - TheMoeWay**](https://ixrec.neocities.org/immersion/youtube_channels) - Gợi ý hàng đầu
+- [Comprehensible Japanese - Tiếng Nhật dễ hiểu - Danh sách các kênh Youtube](https://reddit.com/r/LearnJapanese/comments/18wf1w2/my_list_of_comprehensible_japanese_channels/)
+- [Danh sách hơn 50 kênh Youtube Tiếng Nhật trên Reddit](https://reddit.com/r/LearnJapanese/comments/ox3ljg/for_anyone_wanting_japanese_youtube_channel/)
+- [Tổng hợp một số các kênh Youtube khác trên Spreadsheet](https://docs.google.com/spreadsheets/d/1cDYmtCeEjEm4ddff3uKj8tRscF9YgzX_xAHSHgUlsyA/edit?usp=drivesdk)
+- [Danh sách các kênh Youtube có phụ đề Nhật #1 - Github](https://github.com/echamudi/japanese-youtube-channels-with-subtitles)
+- [Danh sách các kênh Youtube có phụ đề Nhật #2 - Github](https://github.com/WilsonNet/japanase-youtube-channels-with-japanese-subtitles)
