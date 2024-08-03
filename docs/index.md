@@ -1,0 +1,1 @@
+Hãy ghé trang [Hướng dẫn](guide/) để đọc hướng dẫn học nha.
