@@ -9,32 +9,20 @@ theme:
     primary: indigo
 
 nav:
-  - Home: 'index.md'
   - 'Hướng dẫn':
     - 'Lộ trình học': 'guide.md'
-    - 'Đầu vào dễ hiểu': 'input-guide.md'
-  - 'FAQ':
-    - 'Câu hỏi thường gặp': 'faq.md'
-  - 'Media':
-    - 'Anime': 'jp-anime.md'
-    - 'Manga': 'manga.md'
-    - 'Light Novel': 'light-novel.md'
-    - 'Visual Novel': 'visual-novel.md'
   - 'Công cụ & Cài đặt':
     - 'Yomichan': 'setup-yomichan.md'
     - 'Sentence Mining': 'sentence-mining.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
-  - 'Gợi ý':
-    - 'Cộng đồng': 'cong-dong.md'
   - 'Nội dung tiêu thụ':
     - 'Youtube': 'youtube.md'
     - 'Podcast': 'podcasts.md'
     - 'Anime': 'anime.md'
     - 'LN & VN': 'novel.md'
-    - 'Phim & Drama': 'phim.md'
     - 'Sách': 'sach.md'
-    - 'Audiobooks': 'audiobook.md'
+    - 'Sách nói': 'audiobook.md'
       
 theme:
   palette:
