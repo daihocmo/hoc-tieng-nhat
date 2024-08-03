@@ -1,1 +1,1 @@
-Hãy ghé trang [Hướng dẫn](guide/) để đọc hướng dẫn học nha.
+Hãy ghé trang [Hướng dẫn](guide.md) để đọc hướng dẫn học nha.
