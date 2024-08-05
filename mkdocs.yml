@@ -10,10 +10,10 @@ theme:
 
 nav:
   - 'Hướng dẫn':
-    - 'Lộ trình học': 'guide.md'
+    - 'Học': 'guide.md'
   - 'Công cụ & Cài đặt':
-    - 'Yomichan': 'setup-yomichan.md'
-    - 'Sentence Mining': 'sentence-mining.md'
+    - 'Yomitan': 'setup-yomichan.md'
+    - 'Đào câu': 'sentence-mining.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
   - 'Nội dung tiêu thụ':

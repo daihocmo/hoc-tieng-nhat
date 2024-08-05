@@ -2,7 +2,6 @@
 
 Bài viết này mình dịch trực tiếp từ bài viết của TheMoeWay. Đọc bài viết gốc [tại đây](https://learnjapanese.moe/yomichan/). Phần mình dịch chỉ là cài đặt cơ bản của Yomitan và thêm một số nội dung mà mình nghĩ là cần cho mọi người. Các phần khác như là: Tải từ điển Frequency (Độ phổ biến từ), sử dụng Yomitan cho các tệp cục bộ (local files) như tệp HTML chẳng hạn, cài đặt trên Android bạn hãy qua trang của TheMoeWay để tham khảo thêm nha
 
-
 ## Yomitan là gì?
 Yomitan là một extension (tiện ích mở rộng) trên trình duyệt (Chrome, Chromium-based hoặc Firefox) cho phép bạn tra cứu các từ tiếng Nhật cả nghĩa lẫn cách đọc trên trang web một cách dễ dàng.
 
